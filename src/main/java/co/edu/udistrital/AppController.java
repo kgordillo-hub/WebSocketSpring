@@ -1,4 +1,4 @@
-package co.edu.udistrital.WebSocketSpring;
+package co.edu.udistrital;
 
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;

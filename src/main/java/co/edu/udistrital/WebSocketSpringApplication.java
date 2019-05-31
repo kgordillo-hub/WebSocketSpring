@@ -1,4 +1,4 @@
-package co.edu.udistrital.WebSocketSpring;
+package co.edu.udistrital;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
